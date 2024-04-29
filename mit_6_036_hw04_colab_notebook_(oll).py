@@ -92,7 +92,7 @@ def df2(v):
 """The main function to implement is `gd`, defined below."""
 
 def gd(f, df, x0, step_size_fn, max_iter):
-    pass
+    pass 
 
 """To evaluate results, we also use a simple `package_ans` function,
 which checks the final `x`, as well as the first and last values in
